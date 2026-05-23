@@ -17,13 +17,13 @@ This project focuses on analyzing retail sales, inventory management, and supply
 ## Dashboard Preview
 
 ### Executive Overview Dashboard
-![Executive Dashboard](assets/executive_dashboard.png)
+![Executive Dashboard](Assets/executive_dashboard.png)
 
 ### Sales & Product Analysis Dashboard
-![Sales Dashboard](assets/sales_dashboard.png)
+![Sales Dashboard](Assets/sales_dashboard.png)
 
 ### Inventory & Supply Chain Dashboard
-![Inventory Dashboard](assets/inventory_dashboard.png)
+![Inventory Dashboard](Assets/inventory_dashboard.png)
 
 ---
 
